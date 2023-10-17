@@ -166,7 +166,7 @@ select {
 
 @media screen and (max-width: 768px) {
   .shoe-container {
-    width: 100vh;
+    width: 100%;
   }
 
   .shoe img {
@@ -190,5 +190,6 @@ select {
   .shop-wrapper {
     display: flex;
     flex-direction: column;
+    margin: 30px;
   }
 }
