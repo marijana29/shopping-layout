@@ -62,8 +62,6 @@ select {
 }
 
 .add-to-cart {
-  /* margin-top: 10px;
-  padding: 5px 10px; */
   background-color: #007bff;
   color: #fff;
   border: none;
@@ -191,6 +189,6 @@ select {
 
   .shop-wrapper {
     display: flex;
-    flex-direction: column; /* Change to column on narrow screens */
+    flex-direction: column;
   }
 }
